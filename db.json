@@ -1,6 +1,8 @@
-{
-    "KeyOne": "StringValue!",
-    "KeyTwo": "Another String Value!",
-    "KeyThree": 10,
-    "KeyFour": "OtherString!"
-}
+[
+    {
+        "KeyOne": "StringValue!",
+        "KeyTwo": "Another String Value!",
+        "KeyThree": 10,
+        "KeyFour": "OtherString!"
+    }
+]
